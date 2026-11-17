@@ -1,6 +1,6 @@
 # Indie GPT
 
-[![License: MIT](https://img.shields.io/github/license/ysskrishna/IndieGPT)](https://github.com/ysskrishna/IndieGPT/blob/main/LICENSE) [![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
+[![Author site](https://img.shields.io/badge/author-ysskrishna.space-informational)](https://ysskrishna.space)
 
 A full stack application which allows users to demonstrate an interactive chatbot application with chat sharing, forking features.
 
@@ -65,10 +65,6 @@ If you find this project helpful:
 - 🐛 [Report issues](https://github.com/ysskrishna/IndieGPT/issues)
 - 🔀 Submit pull requests
 - 💝 [Sponsor on GitHub](https://github.com/sponsors/ysskrishna)
-
-## License
-
-MIT © [Y. Siva Sai Krishna](https://github.com/ysskrishna) — see [LICENSE](LICENSE) for details.
 
 ---
 
